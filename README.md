@@ -2,7 +2,7 @@
 - 👀 I’m interested in object detection, object tracking and quantitative trading.
 - 🌱 I’m currently learning how to be an effective and powerful algorithm engineer.
 - 💞️ I’m looking to collaborate on people who are experienced in algorithm engineering or finance.
-- 📫 How to reach me: QQ-798511305
+- 📫 How to reach me: dn22@mails.tsinghua.edu.cn
 
 <!---
 IncludeMathH/IncludeMathH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
